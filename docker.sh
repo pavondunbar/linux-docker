@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# A Bash script by Pavon Dunbar, copyright 2019.
+# A Bash script by Pavon Dunbar
 
 # This script, when executed, will ask the requestor for a term to search the Docker hub, retrieve the Docker images relative
 # to that term, and pulls the image to store on the user's local server. In addition, it will give the requestor the option
