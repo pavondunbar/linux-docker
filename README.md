@@ -7,8 +7,8 @@ A Bash shell script written by Pavon Dunbar that does the following:
 
 To run the script just type either of these commands in Linux:
 
-./docker.sh
-bash docker.sh
-sh docker.sh
+1) ./docker.sh
+2) bash docker.sh
+3) sh docker.sh
 
 
