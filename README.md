@@ -1,4 +1,4 @@
-# linux-docker
+# Docker Shell Script
 A Bash shell script written by Pavon Dunbar that does the following:
 
 1. Searches the Docker hub for Docker images based on a search term the requestor enters in the prompt.
